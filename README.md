@@ -1,5 +1,7 @@
+#CROSS-PLATFORM PROJECT
 # Expense-Tracker
-track your expense 
+track your expense
+ 
 # deploy
 npm install
 cordova run browser
